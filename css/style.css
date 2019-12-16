@@ -27,8 +27,8 @@ body{
 .container img:hover{
 	display: block;
 	position: relative;
-	height: 99px;
-	width: 99px;
+	height: 100px;
+	width: 100px;
 	margin: 5% auto;
 	filter: grayscale(100%);
 	top: -50px;
